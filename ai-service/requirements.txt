@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+sentencepiece
+rasterio 
+aiohttp 
+shapely 
+numpy
+pillow
+redis
